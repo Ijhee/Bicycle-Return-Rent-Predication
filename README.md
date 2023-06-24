@@ -1,2 +1,5 @@
 # Bicycle-Return-Rent-Predication
- Bicycle-Return-Rent-Predication Project in DataMining
+따릉이 수요량 및 반냡량을 예측하는 프로젝트를 진행했습니다. 본 프로젝트에서는 따릉이 개별 대여소마다 모델을 구축할 수 없는 비용적 한계를 구/동 모델을 통해 해결하고자 했습니다. 현업에서 충분히 발생할 수 있는 모델 구축에 대한 현실적인 한계와 컴퓨팅 한계를 어떻게 극복하는 방안을 제시하고자 했으며 최근 Large Model들을 경량화하고자 하는 관점들 또한 녹여내고자 했습니다.<br>
+아래 노션 링크에 자세한 분석 과정들을 모두 정리해두었으니 참고해주시면 감사하겠습니다.<br>
+https://spiced-cod-608.notion.site/DATA-MINING-c4dc1ef7bac44861bb96e46d1133abae
+
